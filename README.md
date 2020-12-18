@@ -7,6 +7,4 @@
 <p>A reference project I created for the most common problems in HMS Location, Map, Site Kit.</p>
 <br>
 <img src="https://miro.medium.com/max/2000/1*KknYaEHbCiWsjYbpiOl33g.jpeg">
-<h2>Demo Gif</h2>
-<img src="https://miro.medium.com/max/1196/1*mHFvyBINnrrIErCcIKsJaA.gif" width="200px">
 <h4>Medium post link: https://medium.com/huawei-developers/development-in-react-native-platform-with-hms-location-kit-map-kit-site-kit-1-871f60d3ff05</h4>
