@@ -17,8 +17,7 @@ import markerImg from '../markerImg';
 let mapView, nearbySearchReq;
 
 const config = {
-  apiKey:
-    'CgB6e3x9edr9aDKC2hvAgHFWVKbcObkcj/nVGD/sjfcb4ZKV36LHmc5wS+WQqd782FtGwH+Cs2+GQsvSQTJONHPh',
+  apiKey: 'api_key',
 };
 
 const GetPermssions = () => {
@@ -56,8 +55,7 @@ const GetPermssions = () => {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        key:
-          'CgB6e3x9edr9aDKC2hvAgHFWVKbcObkcj/nVGD/sjfcb4ZKV36LHmc5wS+WQqd782FtGwH+Cs2+GQsvSQTJONHPh',
+        key: 'api_key',
       },
       body: JSON.stringify({
         origin: {
